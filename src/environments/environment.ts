@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  IPI:'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',
+  IPI:'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',
 };
 
 /*
