@@ -44,5 +44,17 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.1.5"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0. <table> <tr> <td>   This is basically a  GITHUB search app. that shows Github user, information and repositories. it has an input form in which when ithub username is typed it brings all informations",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdimulhinYussuf3675/Git-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdimulhinYussuf3675/Git-search/issues"
+  },
+  "homepage": "https://github.com/AbdimulhinYussuf3675/Git-search#readme"
 }
